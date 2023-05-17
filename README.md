@@ -16,7 +16,7 @@
 
 ## 📫 Get in Touch
 
-- LinkedIn: [](https://www.linkedin.com/in/md-mahbub-alom-694a44187/)
+- LinkedIn: https://www.linkedin.com/in/md-mahbub-alom-694a44187/
 - Email: hsmahbub@gmail.com
 
 
