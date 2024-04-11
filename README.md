@@ -8,9 +8,9 @@
 
 ## 🚀 Skills
 
-- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
 - **Front-end:** React.js, HTML5, CSS3, Bootstrap,Tailwindcss
-- **Back-end:** Node.js, Express.js, MongoDB, Socket.io, Mongoose
+- **Back-end:** Node.js, Next.Js, Express.js, MongoDB, Socket.io, Mongoose, Stripe
 - **Tools:** Git, VS Code, Postman, Chatgpt
 
 
